@@ -1,0 +1,5 @@
+UMP-45 | Caramel (Factory New)
+UMP-45 | Caramel (Minimal Wear)
+UMP-45 | Caramel (Field-Tested)
+UMP-45 | Caramel (Well-Worn)
+UMP-45 | Caramel (Battle-Scarred)
